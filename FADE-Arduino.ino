@@ -1,10 +1,10 @@
 /*
  Program to fade led using pulse with modulation.
- PWN pin set to pin 9
+ PWM pin set to pin 9
  
 */
 
-int led = 9;           // LED set to pin 10
+int led = 9;           // LED set to pin 9
 int brightness = 0;    // change brightness/dimness
 int fadeAmount = 5;    // Set fade amount to go frm bright to dim 
 
