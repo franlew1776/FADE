@@ -1,5 +1,5 @@
 /*
- Program to fade led using pulse with modukation.
+ Program to fade led using pulse with modulation.
  PWN pin set to pin 9
  
 */
